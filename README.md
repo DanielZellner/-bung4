@@ -1,3 +1,9 @@
+ Testen Sie erneut das Bauen der APK. Wo erscheint die APK nach erfolgreichem Durchlauf des 
+Workflows? Kann die APK gebaut werden?
+
+
+
+
 
 Android BasicMultitouch Sample
 ===================================
