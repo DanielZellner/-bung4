@@ -1,3 +1,11 @@
+signingConfigs {
+ debug {
+ storeFile file(path/to/keystore.jks')
+ storePassword findProperty('storePassword')
+ keyPassword findProperty('keyPassword')
+ keyAlias 'keyAlias'
+ }
+ }
 
 
 
