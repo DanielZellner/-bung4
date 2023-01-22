@@ -2,6 +2,8 @@
 Workflows? Kann die APK gebaut werden?
 
 A: ich hatte zuerst ein ü im namen mit dem konnte es nicht umgehen
+A2: probleme mit keystore
+
 
 
 
