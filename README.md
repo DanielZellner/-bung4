@@ -1,7 +1,7 @@
  Testen Sie erneut das Bauen der APK. Wo erscheint die APK nach erfolgreichem Durchlauf des 
 Workflows? Kann die APK gebaut werden?
 
-
+A: ich hatte zuerst ein ü im namen mit dem konnte es nicht umgehen
 
 
 
